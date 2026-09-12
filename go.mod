@@ -5,7 +5,7 @@ go 1.26.4
 require (
 	github.com/twmb/franz-go v1.21.6
 	github.com/twmb/franz-go/pkg/kadm v1.18.0
-	github.com/twmb/franz-go/pkg/kfake v0.0.0-20260908033342-6b0b6509f117
+	github.com/twmb/franz-go/pkg/kfake v0.0.0-20260911174156-65d23a567563
 )
 
 require (
