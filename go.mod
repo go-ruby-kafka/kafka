@@ -1,6 +1,6 @@
 module github.com/go-ruby-kafka/kafka
 
-go 1.26.4
+go 1.27.1
 
 require (
 	github.com/twmb/franz-go v1.22.1
