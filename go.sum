@@ -42,6 +42,8 @@ github.com/twmb/franz-go/pkg/kfake v0.0.0-20260918165059-79db0ce448c6 h1:gavwTjg
 github.com/twmb/franz-go/pkg/kfake v0.0.0-20260918165059-79db0ce448c6/go.mod h1:TG+7GhIS2HEiBNWJUb+2m0F+rB87IbU7WtWSWBDnOL4=
 github.com/twmb/franz-go/pkg/kfake v0.0.0-20260927044826-460b6323ec8b h1:i0KhtxC1gIs+tJlVwX6hw3YvXwZ5v5mxgpCoB69PhVQ=
 github.com/twmb/franz-go/pkg/kfake v0.0.0-20260927044826-460b6323ec8b/go.mod h1:TG+7GhIS2HEiBNWJUb+2m0F+rB87IbU7WtWSWBDnOL4=
+github.com/twmb/franz-go/pkg/kfake v0.0.0-20261007040850-d3792b34935a h1:jjvnSe8KtzmRKZdqQA+Ojnge9TdyFOaDa883kt3T+TI=
+github.com/twmb/franz-go/pkg/kfake v0.0.0-20261007040850-d3792b34935a/go.mod h1:TG+7GhIS2HEiBNWJUb+2m0F+rB87IbU7WtWSWBDnOL4=
 github.com/twmb/franz-go/pkg/kmsg v1.13.1 h1:fG5kItwysTk5UXqVwb64EpQEy3TydF3vYYK21nUQ+bI=
 github.com/twmb/franz-go/pkg/kmsg v1.13.1/go.mod h1:+DPt4NC8RmI6hqb8G09+3giKObE6uD2Eya6CfqBpeJY=
 github.com/twmb/franz-go/pkg/kmsg v1.14.0 h1:gSxrBEKWl3qnsx3QKWol5OEVujuPmIoDkhMt3didFKM=
