@@ -52,6 +52,8 @@ github.com/twmb/franz-go/pkg/kfake v0.0.0-20260918165059-79db0ce448c6 h1:gavwTjg
 github.com/twmb/franz-go/pkg/kfake v0.0.0-20260918165059-79db0ce448c6/go.mod h1:TG+7GhIS2HEiBNWJUb+2m0F+rB87IbU7WtWSWBDnOL4=
 github.com/twmb/franz-go/pkg/kfake v0.0.0-20260927044826-460b6323ec8b h1:i0KhtxC1gIs+tJlVwX6hw3YvXwZ5v5mxgpCoB69PhVQ=
 github.com/twmb/franz-go/pkg/kfake v0.0.0-20260927044826-460b6323ec8b/go.mod h1:TG+7GhIS2HEiBNWJUb+2m0F+rB87IbU7WtWSWBDnOL4=
+github.com/twmb/franz-go/pkg/kfake v0.0.0-20261127044302-899cc3164d3c h1:bf9hxqblzp+dCnPVrOmbdIR9x/Qmv4IxF7iWvRg0q8M=
+github.com/twmb/franz-go/pkg/kfake v0.0.0-20261127044302-899cc3164d3c/go.mod h1:O/j/mZSbf7taZuTdIQS+dYGW8d0+Ym0mGuF93qgY77c=
 github.com/twmb/franz-go/pkg/kmsg v1.13.1 h1:fG5kItwysTk5UXqVwb64EpQEy3TydF3vYYK21nUQ+bI=
 github.com/twmb/franz-go/pkg/kmsg v1.13.1/go.mod h1:+DPt4NC8RmI6hqb8G09+3giKObE6uD2Eya6CfqBpeJY=
 github.com/twmb/franz-go/pkg/kmsg v1.14.0 h1:gSxrBEKWl3qnsx3QKWol5OEVujuPmIoDkhMt3didFKM=
@@ -60,5 +62,7 @@ github.com/twmb/franz-go/pkg/kmsg v1.15.0 h1:mILdOQm4JkWojbSYVQ7KJNJ1qMdYNsLrdNO
 github.com/twmb/franz-go/pkg/kmsg v1.15.0/go.mod h1:sGkGxKexpRLBThFHJLjjywcyfkK09qB/g+X+wFWZQ/A=
 github.com/twmb/franz-go/pkg/kmsg v1.15.1 h1:3sj7ekbH33t73nsBcHS0wtp/PyMIViHLNItZrE8V9zM=
 github.com/twmb/franz-go/pkg/kmsg v1.15.1/go.mod h1:sGkGxKexpRLBThFHJLjjywcyfkK09qB/g+X+wFWZQ/A=
+github.com/twmb/franz-go/pkg/kmsg v1.15.2 h1:uqpiNaTc2xbXNPXu1xFrOuUkQKwkwRmy43lOQINpqk0=
+github.com/twmb/franz-go/pkg/kmsg v1.15.2/go.mod h1:sGkGxKexpRLBThFHJLjjywcyfkK09qB/g+X+wFWZQ/A=
 golang.org/x/crypto v0.51.0 h1:IBPXwPfKxY7cWQZ38ZCIRPI50YLeevDLlLnyC5wRGTI=
 golang.org/x/crypto v0.51.0/go.mod h1:8AdwkbraGNABw2kOX6YFPs3WM22XqI4EXEd8g+x7Oc8=
